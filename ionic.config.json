@@ -1,0 +1,8 @@
+{
+  "name": "IIFestival",
+  "app_id": "68aee811",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
